@@ -1,0 +1,776 @@
+pct.exp,features.plot,id,avg.exp.scaled
+22.69811321,Myh7,Atrial Myocyte 1,0.197182054
+5.169811321,Myh6,Atrial Myocyte 1,-0.031200673
+36.20754717,Nppa,Atrial Myocyte 1,1.355937725
+0.471698113,Rspo3,Atrial Myocyte 1,-0.303932856
+2.169811321,Hand1,Atrial Myocyte 1,1.056257979
+0.075471698,Kcne1l,Atrial Myocyte 1,-0.315493466
+0.339622642,Cdh5,Atrial Myocyte 1,-0.435657046
+0.150943396,Pecam1,Atrial Myocyte 1,-0.552777358
+0.226415094,Tgfb1,Atrial Myocyte 1,-0.63194502
+0.018867925,Sox17,Atrial Myocyte 1,-0.33968363
+0.226415094,Rgcc,Atrial Myocyte 1,-0.248916175
+0.056603774,Nrp2,Atrial Myocyte 1,-0.46546662
+1.169811321,Fabp4,Atrial Myocyte 1,-0.14936596
+0.056603774,Nfatc1,Atrial Myocyte 1,-0.626955568
+0.283018868,Cdh11,Atrial Myocyte 1,-0.588378257
+0.094339623,Klf1,Atrial Myocyte 1,-0.194290812
+0.094339623,Tal1,Atrial Myocyte 1,-0.601416734
+27,Vim,Atrial Myocyte 1,-0.208347747
+0.132075472,Cd68,Atrial Myocyte 1,-0.1994967
+1.396226415,Col3a1,Atrial Myocyte 1,-0.55798334
+0.094339623,Notch1,Atrial Myocyte 1,-0.65612036
+0.132075472,Notch2,Atrial Myocyte 1,-0.834552795
+0.037735849,Notch3,Atrial Myocyte 1,-0.479924361
+0.094339623,Notch4,Atrial Myocyte 1,-0.402109342
+1.509433962,Hes1,Atrial Myocyte 1,-0.717963022
+0,Hes5,Atrial Myocyte 1,NA
+2.830188679,Hes6,Atrial Myocyte 1,0.441580668
+0.132075472,Hes7,Atrial Myocyte 1,-0.176438493
+0.113207547,Hey1,Atrial Myocyte 1,-0.723525798
+1.264150943,Hey2,Atrial Myocyte 1,-0.361944717
+0.018867925,Heyl,Atrial Myocyte 1,-0.463815247
+99.23012901,Myh7,Ventricular Myocyte 1,0.824732124
+86.97461506,Myh6,Ventricular Myocyte 1,1.046749656
+61.19434041,Nppa,Ventricular Myocyte 1,0.706214162
+5.534748231,Rspo3,Ventricular Myocyte 1,0.699051045
+24.49022056,Hand1,Ventricular Myocyte 1,2.220154994
+1.456512692,Kcne1l,Ventricular Myocyte 1,-0.32248867
+2.808988764,Cdh5,Ventricular Myocyte 1,-0.50380881
+1.851851852,Pecam1,Ventricular Myocyte 1,-0.558340638
+2.080732418,Tgfb1,Ventricular Myocyte 1,-0.665091341
+0.104036621,Sox17,Ventricular Myocyte 1,-0.352726828
+6.07573866,Rgcc,Ventricular Myocyte 1,0.004681799
+6.512692468,Nrp2,Ventricular Myocyte 1,-0.161275962
+0.374531835,Fabp4,Ventricular Myocyte 1,-0.380511097
+2.205576363,Nfatc1,Ventricular Myocyte 1,-0.544970948
+1.935081149,Cdh11,Ventricular Myocyte 1,-0.703058988
+0.374531835,Klf1,Ventricular Myocyte 1,-0.318939713
+0.395339159,Tal1,Ventricular Myocyte 1,-0.76553515
+70.84893883,Vim,Ventricular Myocyte 1,-1.057143433
+0.998751561,Cd68,Ventricular Myocyte 1,-0.270105552
+5.472326259,Col3a1,Ventricular Myocyte 1,-0.753456724
+1.414898044,Notch1,Ventricular Myocyte 1,-0.67831269
+8.884727424,Notch2,Ventricular Myocyte 1,-0.187387496
+4.535996671,Notch3,Ventricular Myocyte 1,-0.183720581
+0.665834374,Notch4,Ventricular Myocyte 1,-0.490011043
+12.63004578,Hes1,Ventricular Myocyte 1,-0.91567855
+0,Hes5,Ventricular Myocyte 1,NA
+36.91219309,Hes6,Ventricular Myocyte 1,0.981539181
+0.853100291,Hes7,Ventricular Myocyte 1,-0.354310778
+4.744069913,Hey1,Ventricular Myocyte 1,-0.40472234
+52.22638369,Hey2,Ventricular Myocyte 1,1.681954217
+0.416146484,Heyl,Ventricular Myocyte 1,-0.439669126
+57.67274269,Myh7,Atrial Myocyte 2,-0.071148111
+29.99152183,Myh6,Atrial Myocyte 2,0.127952263
+58.32980076,Nppa,Atrial Myocyte 2,1.45727005
+1.738024587,Rspo3,Atrial Myocyte 2,-0.417605933
+15.04874947,Hand1,Atrial Myocyte 2,1.920979633
+0.487494701,Kcne1l,Atrial Myocyte 2,-0.341805999
+0.699448919,Cdh5,Atrial Myocyte 2,-0.538995585
+0.466299279,Pecam1,Atrial Myocyte 2,-0.584216173
+1.292920729,Tgfb1,Atrial Myocyte 2,-0.615786752
+0.063586265,Sox17,Atrial Myocyte 2,-0.352489192
+2.140737601,Rgcc,Atrial Myocyte 2,-0.149607271
+0.042390844,Nrp2,Atrial Myocyte 2,-0.575766585
+1.441288682,Fabp4,Atrial Myocyte 2,-0.320882737
+0.381517592,Nfatc1,Atrial Myocyte 2,-0.619478282
+0.487494701,Cdh11,Atrial Myocyte 2,-0.734803677
+0.190758796,Klf1,Atrial Myocyte 2,-0.323225599
+0.084781687,Tal1,Atrial Myocyte 2,-0.777290909
+69.88130564,Vim,Atrial Myocyte 2,-0.348519067
+0.105977109,Cd68,Atrial Myocyte 2,-0.307147016
+2.755404833,Col3a1,Atrial Myocyte 2,-0.746271237
+0.254345061,Notch1,Atrial Myocyte 2,-0.70712004
+0.339126749,Notch2,Atrial Myocyte 2,-0.987923064
+0.105977109,Notch3,Atrial Myocyte 2,-0.574957723
+0.614667232,Notch4,Atrial Myocyte 2,-0.448553108
+7.672742688,Hes1,Atrial Myocyte 2,-0.846735822
+0,Hes5,Atrial Myocyte 2,NA
+22.40356083,Hes6,Atrial Myocyte 2,1.068671153
+0.275540483,Hes7,Atrial Myocyte 2,-0.498806948
+2.267910131,Hey1,Atrial Myocyte 2,-0.383994401
+7.333615939,Hey2,Atrial Myocyte 2,-0.513890291
+0.23314964,Heyl,Atrial Myocyte 2,-0.424895277
+17.5464684,Myh7,Endothelial Cell 1,-1.046069106
+2.304832714,Myh6,Endothelial Cell 1,-0.86187351
+13.11028501,Nppa,Endothelial Cell 1,-1.082079654
+0.421313507,Rspo3,Endothelial Cell 1,-0.745704921
+0.817843866,Hand1,Endothelial Cell 1,-0.814494916
+0.247831475,Kcne1l,Endothelial Cell 1,-0.373390903
+87.98017348,Cdh5,Endothelial Cell 1,1.979442601
+68.02973978,Pecam1,Endothelial Cell 1,1.678184764
+61.88351921,Tgfb1,Endothelial Cell 1,1.524718431
+8.624535316,Sox17,Endothelial Cell 1,0.361497591
+1.511771995,Rgcc,Endothelial Cell 1,-0.337085067
+12.6889715,Nrp2,Endothelial Cell 1,0.398042981
+0.991325898,Fabp4,Endothelial Cell 1,-0.370414155
+38.16604709,Nfatc1,Endothelial Cell 1,1.565370727
+65.30359356,Cdh11,Endothelial Cell 1,1.873483609
+0.421313507,Klf1,Endothelial Cell 1,-0.320105326
+22.4535316,Tal1,Endothelial Cell 1,1.483701782
+99.75216853,Vim,Endothelial Cell 1,0.64914079
+1.784386617,Cd68,Endothelial Cell 1,-0.230209978
+91.07806691,Col3a1,Endothelial Cell 1,1.166792226
+58.0669145,Notch1,Endothelial Cell 1,1.863266499
+13.55638166,Notch2,Endothelial Cell 1,0.559760542
+6.369268897,Notch3,Endothelial Cell 1,0.036242993
+12.93680297,Notch4,Endothelial Cell 1,1.179099194
+50.03717472,Hes1,Endothelial Cell 1,0.250212242
+0,Hes5,Endothelial Cell 1,NA
+26.74101611,Hes6,Endothelial Cell 1,0.323443766
+2.627013631,Hes7,Endothelial Cell 1,0.282598112
+14.27509294,Hey1,Endothelial Cell 1,0.725270756
+6.592317224,Hey2,Endothelial Cell 1,-0.772941981
+1.635687732,Heyl,Endothelial Cell 1,-0.27777493
+100,Myh7,Ventricular Myocyte 2,1.868380616
+89.52480966,Myh6,Ventricular Myocyte 2,1.216461466
+51.27330008,Nppa,Ventricular Myocyte 2,0.314036331
+1.391441323,Rspo3,Ventricular Myocyte 2,-0.714177503
+9.241270675,Hand1,Ventricular Myocyte 2,-0.393524653
+1.890259911,Kcne1l,Ventricular Myocyte 2,-0.344173833
+1.365187713,Cdh5,Ventricular Myocyte 2,-0.546568386
+2.284064059,Pecam1,Ventricular Myocyte 2,-0.573705091
+4.17432397,Tgfb1,Ventricular Myocyte 2,-0.657579007
+0.288789709,Sox17,Ventricular Myocyte 2,-0.350950493
+2.310317669,Rgcc,Ventricular Myocyte 2,-0.354189928
+0.446311368,Nrp2,Ventricular Myocyte 2,-0.557070398
+11.10527698,Fabp4,Ventricular Myocyte 2,-0.298839468
+2.179049619,Nfatc1,Ventricular Myocyte 2,-0.597277151
+1.076398005,Cdh11,Ventricular Myocyte 2,-0.747966171
+0.262536099,Klf1,Ventricular Myocyte 2,-0.338929941
+0.02625361,Tal1,Ventricular Myocyte 2,-0.796216419
+93.98792334,Vim,Ventricular Myocyte 2,-0.731009455
+3.229194014,Cd68,Ventricular Myocyte 2,-0.240487397
+12.39170386,Col3a1,Ventricular Myocyte 2,-0.7420811
+1.653977422,Notch1,Ventricular Myocyte 2,-0.695450853
+11.70911,Notch2,Ventricular Myocyte 2,-0.450026843
+1.128905224,Notch3,Ventricular Myocyte 2,-0.544446468
+1.233919664,Notch4,Ventricular Myocyte 2,-0.484838331
+25.8072985,Hes1,Ventricular Myocyte 2,-0.78948151
+0.02625361,Hes5,Ventricular Myocyte 2,1.154700538
+58.09923865,Hes6,Ventricular Myocyte 2,1.045885954
+1.286426884,Hes7,Ventricular Myocyte 2,-0.414625746
+0.708847467,Hey1,Ventricular Myocyte 2,-0.824338011
+69.99212392,Hey2,Ventricular Myocyte 2,1.543750188
+0.918876345,Heyl,Ventricular Myocyte 2,-0.421196849
+99.8410596,Myh7,Ventricular Myocyte 3,1.475562793
+93.66887417,Myh6,Ventricular Myocyte 3,1.222262478
+78.22516556,Nppa,Ventricular Myocyte 3,1.537962059
+15.65562914,Rspo3,Ventricular Myocyte 3,0.990919397
+41.9602649,Hand1,Ventricular Myocyte 3,1.946216333
+4.847682119,Kcne1l,Ventricular Myocyte 3,-0.29313272
+3.549668874,Cdh5,Ventricular Myocyte 3,-0.53125489
+4.079470199,Pecam1,Ventricular Myocyte 3,-0.56636069
+6.225165563,Tgfb1,Ventricular Myocyte 3,-0.64525619
+0.264900662,Sox17,Ventricular Myocyte 3,-0.354611199
+8.609271523,Rgcc,Ventricular Myocyte 3,-0.150100265
+5.19205298,Nrp2,Ventricular Myocyte 3,-0.371240154
+2.940397351,Fabp4,Ventricular Myocyte 3,-0.358946942
+5.986754967,Nfatc1,Ventricular Myocyte 3,-0.526105793
+3.231788079,Cdh11,Ventricular Myocyte 3,-0.724432576
+1.245033113,Klf1,Ventricular Myocyte 3,-0.307996031
+0.635761589,Tal1,Ventricular Myocyte 3,-0.773549376
+96.47682119,Vim,Ventricular Myocyte 3,-0.417845351
+8.21192053,Cd68,Ventricular Myocyte 3,-0.160228405
+13.08609272,Col3a1,Ventricular Myocyte 3,-0.738320131
+2.675496689,Notch1,Ventricular Myocyte 3,-0.688231087
+13.21854305,Notch2,Ventricular Myocyte 3,-0.490999125
+7.125827815,Notch3,Ventricular Myocyte 3,-0.327557325
+2.225165563,Notch4,Ventricular Myocyte 3,-0.467510873
+44.60927152,Hes1,Ventricular Myocyte 3,-0.541557248
+0,Hes5,Ventricular Myocyte 3,NA
+63.25827815,Hes6,Ventricular Myocyte 3,0.831936993
+1.854304636,Hes7,Ventricular Myocyte 3,-0.384009352
+4.317880795,Hey1,Ventricular Myocyte 3,-0.694030387
+53.43046358,Hey2,Ventricular Myocyte 3,0.594503939
+1.82781457,Heyl,Ventricular Myocyte 3,-0.39608481
+99.86282579,Myh7,Ventricular Myocyte 4,1.434153177
+73.90260631,Myh6,Ventricular Myocyte 4,0.623647423
+42.24965706,Nppa,Ventricular Myocyte 4,0.184496302
+6.550068587,Rspo3,Ventricular Myocyte 4,-0.417078794
+11.35116598,Hand1,Ventricular Myocyte 4,-0.197465085
+2.091906722,Kcne1l,Ventricular Myocyte 4,-0.326345471
+1.234567901,Cdh5,Ventricular Myocyte 4,-0.544067444
+2.229080933,Pecam1,Ventricular Myocyte 4,-0.570936755
+2.949245542,Tgfb1,Ventricular Myocyte 4,-0.670159503
+0.102880658,Sox17,Ventricular Myocyte 4,-0.359074025
+2.400548697,Rgcc,Ventricular Myocyte 4,-0.332685682
+1.33744856,Nrp2,Ventricular Myocyte 4,-0.521603233
+5.624142661,Fabp4,Ventricular Myocyte 4,-0.32100368
+4.14951989,Nfatc1,Ventricular Myocyte 4,-0.532859588
+0.685871056,Cdh11,Ventricular Myocyte 4,-0.755999356
+0.445816187,Klf1,Ventricular Myocyte 4,-0.331626986
+0.274348422,Tal1,Ventricular Myocyte 4,-0.786004366
+94.75308642,Vim,Ventricular Myocyte 4,-0.219565027
+4.595336077,Cd68,Ventricular Myocyte 4,-0.187539795
+6.82441701,Col3a1,Ventricular Myocyte 4,-0.718355151
+1.234567901,Notch1,Ventricular Myocyte 4,-0.702129264
+9.499314129,Notch2,Ventricular Myocyte 4,-0.507901217
+3.155006859,Notch3,Ventricular Myocyte 4,-0.419717307
+1.028806584,Notch4,Ventricular Myocyte 4,-0.473227754
+30.17832647,Hes1,Ventricular Myocyte 4,-0.628517082
+0,Hes5,Ventricular Myocyte 4,NA
+49.00548697,Hes6,Ventricular Myocyte 4,0.738020806
+0.994513032,Hes7,Ventricular Myocyte 4,-0.415359472
+1.646090535,Hey1,Ventricular Myocyte 4,-0.770168198
+66.04938272,Hey2,Ventricular Myocyte 4,1.620419783
+1.063100137,Heyl,Ventricular Myocyte 4,-0.395029522
+10.95744681,Myh7,Undifferentiated Cell,-0.381529261
+1.773049645,Myh6,Undifferentiated Cell,-0.617658655
+15.4964539,Nppa,Undifferentiated Cell,0.080243711
+1.063829787,Rspo3,Undifferentiated Cell,-0.14015956
+0.567375887,Hand1,Undifferentiated Cell,-0.390359238
+0.744680851,Kcne1l,Undifferentiated Cell,0.146281088
+5.744680851,Cdh5,Undifferentiated Cell,0.373444521
+5.106382979,Pecam1,Undifferentiated Cell,0.512854269
+6.170212766,Tgfb1,Undifferentiated Cell,0.595140917
+1.34751773,Sox17,Undifferentiated Cell,0.361141607
+1.985815603,Rgcc,Undifferentiated Cell,0.825152315
+0.921985816,Nrp2,Undifferentiated Cell,-0.138058873
+13.0141844,Fabp4,Undifferentiated Cell,2.236401185
+2.092198582,Nfatc1,Undifferentiated Cell,0.158802703
+3.120567376,Cdh11,Undifferentiated Cell,0.174114532
+0.070921986,Klf1,Undifferentiated Cell,-0.329440539
+1.382978723,Tal1,Undifferentiated Cell,0.080232549
+77.0212766,Vim,Undifferentiated Cell,1.304733823
+0.212765957,Cd68,Undifferentiated Cell,-0.171008025
+7.659574468,Col3a1,Undifferentiated Cell,0.133486361
+2.446808511,Notch1,Undifferentiated Cell,0.083064176
+1.595744681,Notch2,Undifferentiated Cell,0.108064483
+0.390070922,Notch3,Undifferentiated Cell,-0.441328936
+0.673758865,Notch4,Undifferentiated Cell,-0.049075066
+14.82269504,Hes1,Undifferentiated Cell,1.060680681
+0.035460993,Hes5,Undifferentiated Cell,NA
+2.907801418,Hes6,Undifferentiated Cell,-0.577193613
+0.106382979,Hes7,Undifferentiated Cell,-0.534015237
+1.560283688,Hey1,Undifferentiated Cell,0.519388228
+0.673758865,Hey2,Undifferentiated Cell,-0.673322531
+0.673758865,Heyl,Undifferentiated Cell,0.06011787
+99.26470588,Myh7,Ventricular Myocyte 5,1.509718233
+77.78637771,Myh6,Ventricular Myocyte 5,0.768528311
+46.13003096,Nppa,Ventricular Myocyte 5,0.044114999
+5.688854489,Rspo3,Ventricular Myocyte 5,-0.50521746
+12.53869969,Hand1,Ventricular Myocyte 5,-0.172000066
+1.973684211,Kcne1l,Ventricular Myocyte 5,-0.348380278
+2.012383901,Cdh5,Ventricular Myocyte 5,-0.53524515
+2.283281734,Pecam1,Ventricular Myocyte 5,-0.567791289
+2.476780186,Tgfb1,Ventricular Myocyte 5,-0.68135961
+0.116099071,Sox17,Ventricular Myocyte 5,-0.355107233
+1.586687307,Rgcc,Ventricular Myocyte 5,-0.369707409
+1.315789474,Nrp2,Ventricular Myocyte 5,-0.487191992
+10.37151703,Fabp4,Ventricular Myocyte 5,-0.307868579
+4.566563467,Nfatc1,Ventricular Myocyte 5,-0.516922563
+0.657894737,Cdh11,Ventricular Myocyte 5,-0.758406988
+0.386996904,Klf1,Ventricular Myocyte 5,-0.335491279
+0.154798762,Tal1,Ventricular Myocyte 5,-0.791187096
+93.65325077,Vim,Ventricular Myocyte 5,-0.312649445
+5.998452012,Cd68,Ventricular Myocyte 5,-0.173606987
+9.404024768,Col3a1,Ventricular Myocyte 5,-0.739749841
+2.360681115,Notch1,Ventricular Myocyte 5,-0.688280639
+14.62848297,Notch2,Ventricular Myocyte 5,-0.166555074
+2.399380805,Notch3,Ventricular Myocyte 5,-0.456526895
+0.812693498,Notch4,Ventricular Myocyte 5,-0.526261567
+30.03095975,Hes1,Ventricular Myocyte 5,-0.679916252
+0,Hes5,Ventricular Myocyte 5,NA
+46.74922601,Hes6,Ventricular Myocyte 5,0.323859357
+1.238390093,Hes7,Ventricular Myocyte 5,-0.409477066
+1.702786378,Hey1,Ventricular Myocyte 5,-0.75672772
+62.69349845,Hey2,Ventricular Myocyte 5,1.316807336
+0.657894737,Heyl,Ventricular Myocyte 5,-0.44623181
+44.82758621,Myh7,Endothelial Cell 2,-0.879551319
+8.058891902,Myh6,Endothelial Cell 2,-0.817930734
+43.89771406,Nppa,Endothelial Cell 2,-0.871610641
+1.007361488,Rspo3,Endothelial Cell 2,-0.741180884
+1.394808214,Hand1,Endothelial Cell 2,-0.816751568
+0.426191399,Kcne1l,Endothelial Cell 2,-0.379829406
+93.490895,Cdh5,Endothelial Cell 2,1.94602269
+85.74196048,Pecam1,Endothelial Cell 2,2.103289916
+67.29949632,Tgfb1,Endothelial Cell 2,1.120607409
+4.106935296,Sox17,Endothelial Cell 2,-0.159669429
+1.007361488,Rgcc,Endothelial Cell 2,-0.382231812
+16.23401782,Nrp2,Endothelial Cell 2,0.364078977
+6.741573034,Fabp4,Endothelial Cell 2,-0.202700399
+42.89035258,Nfatc1,Endothelial Cell 2,1.205020796
+83.41728012,Cdh11,Endothelial Cell 2,2.359492688
+0.542425417,Klf1,Endothelial Cell 2,-0.324368816
+30.33707865,Tal1,Endothelial Cell 2,1.175414381
+99.88376598,Vim,Endothelial Cell 2,1.343477917
+7.865168539,Cd68,Endothelial Cell 2,-0.071445973
+58.23324293,Col3a1,Endothelial Cell 2,0.086466279
+76.83068578,Notch1,Endothelial Cell 2,2.237701756
+12.01084851,Notch2,Endothelial Cell 2,-0.14370766
+8.213870593,Notch3,Endothelial Cell 2,-0.109766448
+24.7578458,Notch4,Endothelial Cell 2,1.56987964
+85.35451375,Hes1,Endothelial Cell 2,1.756299795
+0,Hes5,Endothelial Cell 2,NA
+33.78535451,Hes6,Endothelial Cell 2,-0.220348111
+2.363425029,Hes7,Endothelial Cell 2,-0.21799968
+20.41844246,Hey1,Endothelial Cell 2,0.663042149
+4.223169314,Hey2,Endothelial Cell 2,-0.975108553
+2.285935684,Heyl,Endothelial Cell 2,-0.301449873
+45.07542147,Myh7,Epicardial Cell 1,-0.79371714
+5.678793256,Myh6,Epicardial Cell 1,-0.829493741
+28.08340728,Nppa,Epicardial Cell 1,-0.906755809
+3.992901508,Rspo3,Epicardial Cell 1,-0.560181791
+0.532386868,Hand1,Epicardial Cell 1,-0.845646614
+41.43744454,Kcne1l,Epicardial Cell 1,1.981742418
+1.597160603,Cdh5,Epicardial Cell 1,-0.52664438
+2.839396628,Pecam1,Epicardial Cell 1,-0.551512049
+16.23779947,Tgfb1,Epicardial Cell 1,-0.287978078
+0.266193434,Sox17,Epicardial Cell 1,-0.342933018
+1.419698314,Rgcc,Epicardial Cell 1,-0.343700858
+11.26885537,Nrp2,Epicardial Cell 1,0.198337195
+13.75332742,Fabp4,Epicardial Cell 1,-0.024413143
+12.0230701,Nfatc1,Epicardial Cell 1,-0.105060449
+34.16149068,Cdh11,Epicardial Cell 1,0.323518635
+1.109139308,Klf1,Epicardial Cell 1,-0.261142135
+0.842945874,Tal1,Epicardial Cell 1,-0.745246125
+97.16060337,Vim,Epicardial Cell 1,1.205067914
+4.170363798,Cd68,Epicardial Cell 1,-0.146036214
+91.74800355,Col3a1,Epicardial Cell 1,2.488715167
+25.51020408,Notch1,Epicardial Cell 1,0.309561786
+24.13487134,Notch2,Epicardial Cell 1,1.550679892
+35.00443656,Notch3,Epicardial Cell 1,2.5
+4.21472937,Notch4,Epicardial Cell 1,0.014107376
+70.05323869,Hes1,Epicardial Cell 1,1.514115487
+0.221827862,Hes5,Epicardial Cell 1,NA
+19.60958296,Hes6,Epicardial Cell 1,-1.017222388
+6.566104703,Hes7,Epicardial Cell 1,1.178509128
+19.43212067,Hey1,Epicardial Cell 1,1.261777415
+13.13220941,Hey2,Epicardial Cell 1,-0.524607997
+28.83762201,Heyl,Epicardial Cell 1,2.5
+37.60037789,Myh7,AVC 1,-0.918622301
+6.235238545,Myh6,AVC 1,-0.83116086
+35.52196504,Nppa,AVC 1,-0.913968835
+42.13509684,Rspo3,AVC 1,2.5
+11.14785073,Hand1,AVC 1,0.322895064
+14.31270666,Kcne1l,AVC 1,0.261209812
+2.456306094,Cdh5,AVC 1,-0.523279828
+6.518658479,Pecam1,AVC 1,-0.464998955
+28.15304676,Tgfb1,AVC 1,-0.034165534
+0.425129901,Sox17,AVC 1,-0.342802567
+2.361832782,Rgcc,AVC 1,-0.283236437
+4.959848843,Nrp2,AVC 1,-0.19053188
+2.125649504,Fabp4,AVC 1,-0.344148412
+19.31979216,Nfatc1,AVC 1,0.410717965
+52.05479452,Cdh11,AVC 1,0.824453074
+5.479452055,Klf1,AVC 1,0.013064019
+6.94378838,Tal1,AVC 1,-0.189712548
+99.76381672,Vim,AVC 1,1.222876082
+4.676428909,Cd68,AVC 1,-0.145339864
+98.06329712,Col3a1,AVC 1,1.617083891
+25.88568729,Notch1,AVC 1,0.143908108
+29.7118564,Notch2,AVC 1,1.99188312
+20.73689183,Notch3,AVC 1,1.00251387
+5.762871989,Notch4,AVC 1,0.019918053
+70.57156353,Hes1,AVC 1,1.752907393
+0.047236656,Hes5,AVC 1,NA
+33.30184223,Hes6,AVC 1,0.11348372
+3.448275862,Hes7,AVC 1,0.169506119
+13.79310345,Hey1,AVC 1,0.446525905
+16.53282948,Hey2,AVC 1,-0.470740013
+13.08455361,Heyl,AVC 1,1.094154559
+36.84848485,Myh7,AVC 2,-0.969847225
+5.878787879,Myh6,AVC 2,-0.840949621
+36.06060606,Nppa,AVC 2,-0.935040518
+28.48484848,Rspo3,AVC 2,0.904915349
+10.60606061,Hand1,AVC 2,0.38546245
+8.96969697,Kcne1l,AVC 2,-0.066748863
+4.303030303,Cdh5,AVC 2,-0.467154933
+10.54545455,Pecam1,AVC 2,-0.318966758
+31.45454545,Tgfb1,AVC 2,-0.031296331
+0.666666667,Sox17,AVC 2,-0.283017524
+2.484848485,Rgcc,AVC 2,-0.330795885
+3.515151515,Nrp2,AVC 2,-0.356132985
+1.151515152,Fabp4,AVC 2,-0.372093545
+18.12121212,Nfatc1,AVC 2,0.196103393
+58.36363636,Cdh11,AVC 2,1.009102968
+16.48484848,Klf1,AVC 2,1.202112819
+12.24242424,Tal1,AVC 2,0.23865033
+99.21212121,Vim,AVC 2,0.917055747
+4.666666667,Cd68,AVC 2,-0.184259282
+91.93939394,Col3a1,AVC 2,1.308805085
+32.12121212,Notch1,AVC 2,0.289912758
+36.42424242,Notch2,AVC 2,2.5
+21.03030303,Notch3,AVC 2,0.914160271
+5.454545455,Notch4,AVC 2,-0.16461389
+58.84848485,Hes1,AVC 2,1.009549828
+0.060606061,Hes5,AVC 2,NA
+28.90909091,Hes6,AVC 2,-0.342171942
+3.696969697,Hes7,AVC 2,0.133043784
+11.45454545,Hey1,AVC 2,0.052217937
+19.93939394,Hey2,AVC 2,-0.287449339
+10.3030303,Heyl,AVC 2,0.452177729
+83.79888268,Myh7,Ventricular Myocyte 6,1.508197806
+36.52234637,Myh6,Ventricular Myocyte 6,1.273597711
+24.02234637,Nppa,Ventricular Myocyte 6,1.316289335
+1.88547486,Rspo3,Ventricular Myocyte 6,0.04098815
+1.675977654,Hand1,Ventricular Myocyte 6,-0.182582666
+0.349162011,Kcne1l,Ventricular Myocyte 6,-0.348419508
+0.279329609,Cdh5,Ventricular Myocyte 6,-0.5210976
+0.558659218,Pecam1,Ventricular Myocyte 6,-0.484284559
+0.558659218,Tgfb1,Ventricular Myocyte 6,-0.587942101
+0,Sox17,Ventricular Myocyte 6,-0.362059879
+0.418994413,Rgcc,Ventricular Myocyte 6,-0.298269936
+0.209497207,Nrp2,Ventricular Myocyte 6,-0.516656453
+1.815642458,Fabp4,Ventricular Myocyte 6,-0.228541125
+0.279329609,Nfatc1,Ventricular Myocyte 6,-0.627849283
+0.279329609,Cdh11,Ventricular Myocyte 6,-0.716991477
+0.069832402,Klf1,Ventricular Myocyte 6,-0.346604354
+0.418994413,Tal1,Ventricular Myocyte 6,-0.77424622
+43.01675978,Vim,Ventricular Myocyte 6,-0.352445801
+0.209497207,Cd68,Ventricular Myocyte 6,-0.281448136
+1.326815642,Col3a1,Ventricular Myocyte 6,-0.68875494
+0.069832402,Notch1,Ventricular Myocyte 6,-0.701734714
+2.164804469,Notch2,Ventricular Myocyte 6,-0.096572433
+0.139664804,Notch3,Ventricular Myocyte 6,-0.521445552
+0.279329609,Notch4,Ventricular Myocyte 6,-0.496835564
+5.167597765,Hes1,Ventricular Myocyte 6,-0.514165078
+0,Hes5,Ventricular Myocyte 6,NA
+8.938547486,Hes6,Ventricular Myocyte 6,0.773976883
+0.209497207,Hes7,Ventricular Myocyte 6,-0.482130692
+0.349162011,Hey1,Ventricular Myocyte 6,-0.55275984
+12.91899441,Hey2,Ventricular Myocyte 6,1.494953473
+0.069832402,Heyl,Ventricular Myocyte 6,-0.356068275
+71.78571429,Myh7,Ventricular Myocyte 7,-0.023764089
+99.5,Myh6,Ventricular Myocyte 7,2.5
+80.85714286,Nppa,Ventricular Myocyte 7,2.238910021
+15,Rspo3,Ventricular Myocyte 7,2.5
+3.857142857,Hand1,Ventricular Myocyte 7,-0.617799874
+1.571428571,Kcne1l,Ventricular Myocyte 7,-0.353631805
+2.071428571,Cdh5,Ventricular Myocyte 7,-0.536541419
+3.285714286,Pecam1,Ventricular Myocyte 7,-0.560430827
+4.428571429,Tgfb1,Ventricular Myocyte 7,-0.650445862
+0.071428571,Sox17,Ventricular Myocyte 7,-0.36043336
+5.285714286,Rgcc,Ventricular Myocyte 7,-0.240073718
+2.071428571,Nrp2,Ventricular Myocyte 7,-0.494876817
+11.07142857,Fabp4,Ventricular Myocyte 7,-0.099105712
+4.928571429,Nfatc1,Ventricular Myocyte 7,-0.532519162
+5.857142857,Cdh11,Ventricular Myocyte 7,-0.646948319
+0.642857143,Klf1,Ventricular Myocyte 7,-0.323296279
+0.571428571,Tal1,Ventricular Myocyte 7,-0.776715632
+92,Vim,Ventricular Myocyte 7,-0.701714798
+7.571428571,Cd68,Ventricular Myocyte 7,-0.130213194
+12.21428571,Col3a1,Ventricular Myocyte 7,-0.70846375
+1.857142857,Notch1,Ventricular Myocyte 7,-0.696831377
+10.92857143,Notch2,Ventricular Myocyte 7,-0.521341259
+2.785714286,Notch3,Ventricular Myocyte 7,-0.439920193
+1.142857143,Notch4,Ventricular Myocyte 7,-0.466575301
+22.21428571,Hes1,Ventricular Myocyte 7,-0.789026073
+0,Hes5,Ventricular Myocyte 7,NA
+52.64285714,Hes6,Ventricular Myocyte 7,0.716663302
+2.5,Hes7,Ventricular Myocyte 7,-0.200225056
+17.07142857,Hey1,Ventricular Myocyte 7,0.046439759
+3.357142857,Hey2,Ventricular Myocyte 7,-1.003118344
+1.285714286,Heyl,Ventricular Myocyte 7,-0.401088371
+37.33228098,Myh7,Epicardial Cell 2,-0.794230054
+9.944751381,Myh6,Epicardial Cell 2,-0.737282878
+35.67482242,Nppa,Epicardial Cell 2,-0.873801387
+16.33780584,Rspo3,Epicardial Cell 2,0.012294363
+3.393843725,Hand1,Epicardial Cell 2,-0.613364468
+62.03630624,Kcne1l,Epicardial Cell 2,2.5
+5.44593528,Cdh5,Epicardial Cell 2,-0.415007938
+5.44593528,Pecam1,Epicardial Cell 2,-0.481032409
+11.99684294,Tgfb1,Epicardial Cell 2,-0.478285697
+0.315706393,Sox17,Epicardial Cell 2,-0.34961163
+0.710339384,Rgcc,Epicardial Cell 2,-0.398716256
+27.0718232,Nrp2,Epicardial Cell 2,0.902680213
+1.973164957,Fabp4,Epicardial Cell 2,-0.363985493
+2.920284136,Nfatc1,Epicardial Cell 2,-0.558238967
+74.03314917,Cdh11,Epicardial Cell 2,1.776504137
+1.104972376,Klf1,Epicardial Cell 2,-0.289771578
+0.947119179,Tal1,Epicardial Cell 2,-0.756574203
+97.31649566,Vim,Epicardial Cell 2,0.517111319
+2.920284136,Cd68,Epicardial Cell 2,-0.229123438
+80.97868982,Col3a1,Epicardial Cell 2,1.374573938
+7.892659826,Notch1,Epicardial Cell 2,-0.540846613
+26.20363062,Notch2,Epicardial Cell 2,1.515442657
+7.576953433,Notch3,Epicardial Cell 2,0.108135973
+2.762430939,Notch4,Epicardial Cell 2,-0.337031848
+50.1183899,Hes1,Epicardial Cell 2,0.371889183
+0,Hes5,Epicardial Cell 2,NA
+35.91160221,Hes6,Epicardial Cell 2,0.107234439
+1.499605367,Hes7,Epicardial Cell 2,-0.309114623
+26.36148382,Hey1,Epicardial Cell 2,1.543313877
+19.33701657,Hey2,Epicardial Cell 2,-0.44597997
+1.81531176,Heyl,Epicardial Cell 2,-0.338934621
+48.77800407,Myh7,Erythroild Cell 1,-0.784832594
+10.69246436,Myh6,Erythroild Cell 1,-0.768336056
+55.60081466,Nppa,Erythroild Cell 1,-0.617842254
+1.323828921,Rspo3,Erythroild Cell 1,-0.660410995
+2.851323829,Hand1,Erythroild Cell 1,-0.757669831
+1.018329939,Kcne1l,Erythroild Cell 1,-0.350364865
+5.600814664,Cdh5,Erythroild Cell 1,-0.48475143
+3.66598778,Pecam1,Erythroild Cell 1,-0.549016244
+12.21995927,Tgfb1,Erythroild Cell 1,-0.536882222
+0.610997963,Sox17,Erythroild Cell 1,-0.345989674
+18.53360489,Rgcc,Erythroild Cell 1,0.481774627
+0.712830957,Nrp2,Erythroild Cell 1,-0.550431921
+0.610997963,Fabp4,Erythroild Cell 1,-0.382527365
+2.036659878,Nfatc1,Erythroild Cell 1,-0.603711797
+5.397148676,Cdh11,Erythroild Cell 1,-0.674804533
+73.3197556,Klf1,Erythroild Cell 1,2.5
+53.97148676,Tal1,Erythroild Cell 1,2.189114093
+41.03869654,Vim,Erythroild Cell 1,-1.593326562
+1.221995927,Cd68,Erythroild Cell 1,-0.298759261
+14.9694501,Col3a1,Erythroild Cell 1,-0.710493082
+2.240325866,Notch1,Erythroild Cell 1,-0.692772207
+2.545824847,Notch2,Erythroild Cell 1,-0.899347886
+1.018329939,Notch3,Erythroild Cell 1,-0.57315634
+0.916496945,Notch4,Erythroild Cell 1,-0.534421102
+7.026476578,Hes1,Erythroild Cell 1,-1.114677912
+0,Hes5,Erythroild Cell 1,NA
+8.655804481,Hes6,Erythroild Cell 1,-2.072830386
+0.305498982,Hes7,Erythroild Cell 1,-0.55477087
+1.323828921,Hey1,Erythroild Cell 1,-0.814530456
+4.887983707,Hey2,Erythroild Cell 1,-0.963908355
+0.509164969,Heyl,Erythroild Cell 1,-0.449034086
+33.47064882,Myh7,Endothelial Cell 3,-0.904039769
+5.870236869,Myh6,Endothelial Cell 3,-0.809693198
+32.4407827,Nppa,Endothelial Cell 3,-0.954036591
+4.11946447,Rspo3,Endothelial Cell 3,-0.564024941
+2.162718847,Hand1,Endothelial Cell 3,-0.74200847
+1.235839341,Kcne1l,Endothelial Cell 3,-0.341783591
+80.63851699,Cdh5,Endothelial Cell 3,1.458776856
+74.45932029,Pecam1,Endothelial Cell 3,1.999824003
+58.90834192,Tgfb1,Endothelial Cell 3,1.362915536
+23.78990731,Sox17,Endothelial Cell 3,1.753311149
+1.235839341,Rgcc,Endothelial Cell 3,-0.360996992
+9.680741504,Nrp2,Endothelial Cell 3,0.109499438
+4.428424305,Fabp4,Endothelial Cell 3,-0.204094856
+65.60247168,Nfatc1,Endothelial Cell 3,2.5
+46.75592173,Cdh11,Endothelial Cell 3,1.005922398
+1.853759011,Klf1,Endothelial Cell 3,-0.233107006
+27.60041195,Tal1,Endothelial Cell 3,1.396871744
+99.89701339,Vim,Endothelial Cell 3,1.457610869
+6.179196704,Cd68,Endothelial Cell 3,-0.113231317
+74.25334706,Col3a1,Endothelial Cell 3,0.634066248
+66.22039135,Notch1,Endothelial Cell 3,2.158344131
+9.680741504,Notch2,Endothelial Cell 3,-0.201152146
+7.929969104,Notch3,Endothelial Cell 3,-0.029407048
+10.71060762,Notch4,Endothelial Cell 3,0.519343968
+52.72914521,Hes1,Endothelial Cell 3,0.773681272
+0,Hes5,Endothelial Cell 3,NA
+31.20494336,Hes6,Endothelial Cell 3,0.096994565
+14.31513903,Hes7,Endothelial Cell 3,2.5
+12.46138002,Hey1,Endothelial Cell 3,0.485838765
+41.91555098,Hey2,Endothelial Cell 3,1.034426072
+5.767250257,Heyl,Endothelial Cell 3,0.31347002
+41.37529138,Myh7,Erythroild Cell 2,-0.934369343
+4.662004662,Myh6,Erythroild Cell 2,-0.866277207
+20.86247086,Nppa,Erythroild Cell 2,-1.133456848
+0.116550117,Rspo3,Erythroild Cell 2,-0.769758142
+0.233100233,Hand1,Erythroild Cell 2,-0.876295447
+0.34965035,Kcne1l,Erythroild Cell 2,-0.380198103
+0.116550117,Cdh5,Erythroild Cell 2,-0.559033478
+0.932400932,Pecam1,Erythroild Cell 2,-0.597916751
+1.282051282,Tgfb1,Erythroild Cell 2,-0.709013486
+0.34965035,Sox17,Erythroild Cell 2,-0.350457214
+1.282051282,Rgcc,Erythroild Cell 2,-0.380545842
+0.116550117,Nrp2,Erythroild Cell 2,-0.575758094
+4.662004662,Fabp4,Erythroild Cell 2,-0.342646238
+0.466200466,Nfatc1,Erythroild Cell 2,-0.640671352
+1.048951049,Cdh11,Erythroild Cell 2,-0.754231035
+4.778554779,Klf1,Erythroild Cell 2,-0.114008529
+1.048951049,Tal1,Erythroild Cell 2,-0.719104796
+14.21911422,Vim,Erythroild Cell 2,-1.856487113
+0.233100233,Cd68,Erythroild Cell 2,-0.311939488
+7.925407925,Col3a1,Erythroild Cell 2,-0.770279432
+0.34965035,Notch1,Erythroild Cell 2,-0.723292823
+0,Notch2,Erythroild Cell 2,-1.042412568
+0.116550117,Notch3,Erythroild Cell 2,-0.593246964
+0.116550117,Notch4,Erythroild Cell 2,-0.569092644
+1.748251748,Hes1,Erythroild Cell 2,-1.174894629
+0,Hes5,Erythroild Cell 2,-0.577350269
+1.398601399,Hes6,Erythroild Cell 2,-2.330784714
+0.116550117,Hes7,Erythroild Cell 2,-0.596368339
+0.233100233,Hey1,Erythroild Cell 2,-0.848897594
+0.932400932,Hey2,Erythroild Cell 2,-1.083817709
+0.466200466,Heyl,Erythroild Cell 2,-0.459470902
+49.672346,Myh7,Endothelial Cell 4,-0.736831277
+8.650065531,Myh6,Endothelial Cell 4,-0.693508381
+35.25557012,Nppa,Endothelial Cell 4,-0.812984329
+1.572739187,Rspo3,Endothelial Cell 4,-0.734440895
+0.786369594,Hand1,Endothelial Cell 4,-0.853757153
+0.786369594,Kcne1l,Endothelial Cell 4,-0.361937647
+94.75753604,Cdh5,Endothelial Cell 4,2.5
+88.59764089,Pecam1,Endothelial Cell 4,2.5
+75.491481,Tgfb1,Endothelial Cell 4,1.667239179
+59.89515072,Sox17,Endothelial Cell 4,2.5
+52.29357798,Rgcc,Endothelial Cell 4,2.5
+62.3853211,Nrp2,Endothelial Cell 4,2.5
+93.05373526,Fabp4,Endothelial Cell 4,2.5
+24.9017038,Nfatc1,Endothelial Cell 4,0.156127363
+5.111402359,Cdh11,Endothelial Cell 4,-0.662222126
+0.131061599,Klf1,Endothelial Cell 4,-0.345430435
+23.98427261,Tal1,Endothelial Cell 4,0.496033511
+99.4757536,Vim,Endothelial Cell 4,1.347043502
+5.766710354,Cd68,Endothelial Cell 4,-0.214515055
+15.85845347,Col3a1,Endothelial Cell 4,-0.657385465
+65.00655308,Notch1,Endothelial Cell 4,1.531303973
+3.931847969,Notch2,Endothelial Cell 4,-0.837550771
+1.703800786,Notch3,Endothelial Cell 4,-0.510432613
+47.70642202,Notch4,Endothelial Cell 4,2.5
+79.29226737,Hes1,Endothelial Cell 4,1.554455853
+1.179554391,Hes5,Endothelial Cell 4,NA
+29.48885976,Hes6,Endothelial Cell 4,-0.89419942
+0.786369594,Hes7,Endothelial Cell 4,-0.507962324
+31.84796855,Hey1,Endothelial Cell 4,2.5
+5.111402359,Hey2,Endothelial Cell 4,-0.893308127
+2.883355177,Heyl,Endothelial Cell 4,-0.247472408
+60.36036036,Myh7,Ventricular Myocyte 8,0.355097932
+14.86486486,Myh6,Ventricular Myocyte 8,-0.198872977
+27.62762763,Nppa,Ventricular Myocyte 8,0.484047486
+0.45045045,Rspo3,Ventricular Myocyte 8,-0.700733711
+1.951951952,Hand1,Ventricular Myocyte 8,-0.22500556
+0.600600601,Kcne1l,Ventricular Myocyte 8,-0.331530932
+0.15015015,Cdh5,Ventricular Myocyte 8,-0.553082789
+0.15015015,Pecam1,Ventricular Myocyte 8,-0.603651343
+0.600600601,Tgfb1,Ventricular Myocyte 8,-0.674379348
+0,Sox17,Ventricular Myocyte 8,-0.362059879
+0.750750751,Rgcc,Ventricular Myocyte 8,-0.244248165
+0,Nrp2,Ventricular Myocyte 8,-0.57992257
+3.453453453,Fabp4,Ventricular Myocyte 8,-0.198094237
+0,Nfatc1,Ventricular Myocyte 8,-0.650360983
+0.3003003,Cdh11,Ventricular Myocyte 8,-0.719853933
+0,Klf1,Ventricular Myocyte 8,-0.34883964
+0.15015015,Tal1,Ventricular Myocyte 8,-0.762695725
+51.95195195,Vim,Ventricular Myocyte 8,-0.380813434
+0.45045045,Cd68,Ventricular Myocyte 8,-0.075032828
+2.552552553,Col3a1,Ventricular Myocyte 8,-0.658978917
+0.15015015,Notch1,Ventricular Myocyte 8,-0.721813394
+0.3003003,Notch2,Ventricular Myocyte 8,-0.940167747
+0.15015015,Notch3,Ventricular Myocyte 8,-0.53058322
+0.3003003,Notch4,Ventricular Myocyte 8,-0.538414284
+4.654654655,Hes1,Ventricular Myocyte 8,-0.915615895
+0,Hes5,Ventricular Myocyte 8,-0.577350269
+13.81381381,Hes6,Ventricular Myocyte 8,1.100999595
+0.3003003,Hes7,Ventricular Myocyte 8,-0.428721606
+0.45045045,Hey1,Ventricular Myocyte 8,-0.678169545
+8.108108108,Hey2,Ventricular Myocyte 8,0.011963817
+0.15015015,Heyl,Ventricular Myocyte 8,-0.452366301
+29.33333333,Myh7,Macrophage,-0.563644317
+7.238095238,Myh6,Macrophage,-0.667702675
+26.28571429,Nppa,Macrophage,-0.530921294
+0,Rspo3,Macrophage,-0.771915977
+0.571428571,Hand1,Macrophage,-0.844990733
+0.571428571,Kcne1l,Macrophage,-0.281830713
+2.666666667,Cdh5,Macrophage,-0.491924831
+9.142857143,Pecam1,Macrophage,-0.237772312
+60.57142857,Tgfb1,Macrophage,2.5
+0,Sox17,Macrophage,-0.362059879
+3.238095238,Rgcc,Macrophage,-0.139530806
+8.19047619,Nrp2,Macrophage,0.102575454
+4.761904762,Fabp4,Macrophage,-0.247238709
+13.14285714,Nfatc1,Macrophage,-0.036976618
+1.142857143,Cdh11,Macrophage,-0.744977425
+0.380952381,Klf1,Macrophage,-0.335026371
+10.47619048,Tal1,Macrophage,0.641119309
+52.95238095,Vim,Macrophage,-0.539715232
+49.14285714,Cd68,Macrophage,2.5
+7.238095238,Col3a1,Macrophage,-0.697033898
+8.952380952,Notch1,Macrophage,-0.297341928
+10.85714286,Notch2,Macrophage,0.013561301
+1.333333333,Notch3,Macrophage,-0.303074135
+1.523809524,Notch4,Macrophage,-0.456691824
+27.80952381,Hes1,Macrophage,0.707626787
+0,Hes5,Macrophage,NA
+21.71428571,Hes6,Macrophage,0.129293646
+1.714285714,Hes7,Macrophage,-0.304167677
+0.380952381,Hey1,Macrophage,-0.840013553
+2.285714286,Hey2,Macrophage,-0.989598076
+0.19047619,Heyl,Macrophage,-0.471073903
+97.69230769,Myh7,Endothelial Cell 5,0.654485096
+83.46153846,Myh6,Endothelial Cell 5,0.558188983
+59.23076923,Nppa,Endothelial Cell 5,0.520311241
+8.269230769,Rspo3,Endothelial Cell 5,0.335760199
+25,Hand1,Endothelial Cell 5,0.953248329
+2.307692308,Kcne1l,Endothelial Cell 5,-0.330753311
+90.76923077,Cdh5,Endothelial Cell 5,1.410834831
+73.26923077,Pecam1,Endothelial Cell 5,0.950232858
+49.80769231,Tgfb1,Endothelial Cell 5,0.341247963
+10.19230769,Sox17,Endothelial Cell 5,0.048865347
+6.538461538,Rgcc,Endothelial Cell 5,-0.159303432
+20.38461538,Nrp2,Endothelial Cell 5,0.342851629
+4.807692308,Fabp4,Endothelial Cell 5,-0.147096969
+45.38461538,Nfatc1,Endothelial Cell 5,1.147482987
+67.88461538,Cdh11,Endothelial Cell 5,1.084553978
+1.346153846,Klf1,Endothelial Cell 5,-0.310608053
+25.19230769,Tal1,Endothelial Cell 5,0.598103003
+99.80769231,Vim,Endothelial Cell 5,0.100437791
+6.346153846,Cd68,Endothelial Cell 5,-0.179152333
+80.96153846,Col3a1,Endothelial Cell 5,0.5011885
+68.26923077,Notch1,Endothelial Cell 5,1.265908322
+18.26923077,Notch2,Endothelial Cell 5,0.113660208
+12.5,Notch3,Endothelial Cell 5,0.102309619
+17.5,Notch4,Endothelial Cell 5,0.645669844
+53.84615385,Hes1,Endothelial Cell 5,-0.193944898
+0.192307692,Hes5,Endothelial Cell 5,NA
+48.65384615,Hes6,Endothelial Cell 5,0.322051249
+2.692307692,Hes7,Endothelial Cell 5,-0.136694299
+15.38461538,Hey1,Endothelial Cell 5,0.12541126
+56.73076923,Hey2,Endothelial Cell 5,0.894033494
+2.884615385,Heyl,Endothelial Cell 5,-0.29673836
+98.06451613,Myh7,Medoderm-derived Cell,1.039982808
+81.93548387,Myh6,Medoderm-derived Cell,0.600768892
+63.5483871,Nppa,Medoderm-derived Cell,0.349196163
+27.09677419,Rspo3,Medoderm-derived Cell,1.291838147
+24.83870968,Hand1,Medoderm-derived Cell,1.403285709
+16.12903226,Kcne1l,Medoderm-derived Cell,-0.021106825
+1.935483871,Cdh5,Medoderm-derived Cell,-0.534692975
+11.29032258,Pecam1,Medoderm-derived Cell,-0.428920866
+19.35483871,Tgfb1,Medoderm-derived Cell,-0.457950628
+0.322580645,Sox17,Medoderm-derived Cell,-0.355812936
+4.838709677,Rgcc,Medoderm-derived Cell,-0.271635569
+13.87096774,Nrp2,Medoderm-derived Cell,0.324174537
+6.129032258,Fabp4,Medoderm-derived Cell,-0.333306904
+17.41935484,Nfatc1,Medoderm-derived Cell,-0.159492783
+52.90322581,Cdh11,Medoderm-derived Cell,0.271429012
+6.129032258,Klf1,Medoderm-derived Cell,0.052011135
+8.387096774,Tal1,Medoderm-derived Cell,-0.488943202
+99.35483871,Vim,Medoderm-derived Cell,0.324032655
+8.709677419,Cd68,Medoderm-derived Cell,-0.157639893
+94.19354839,Col3a1,Medoderm-derived Cell,1.374750322
+37.09677419,Notch1,Medoderm-derived Cell,0.021063566
+34.83870968,Notch2,Medoderm-derived Cell,0.841989972
+31.29032258,Notch3,Medoderm-derived Cell,1.427997388
+3.548387097,Notch4,Medoderm-derived Cell,-0.427030648
+63.87096774,Hes1,Medoderm-derived Cell,0.251993314
+0,Hes5,Medoderm-derived Cell,NA
+58.38709677,Hes6,Medoderm-derived Cell,0.442097922
+4.193548387,Hes7,Medoderm-derived Cell,-0.100403529
+14.83870968,Hey1,Medoderm-derived Cell,-0.120894098
+57.41935484,Hey2,Medoderm-derived Cell,0.85319696
+18.06451613,Heyl,Medoderm-derived Cell,1.435205786
+17.50841751,Myh7,Erythroild Cell 3,-1.065296732
+4.04040404,Myh6,Erythroild Cell 3,-0.800848277
+18.18181818,Nppa,Erythroild Cell 3,-0.956531425
+0.336700337,Rspo3,Erythroild Cell 3,-0.76687927
+0.336700337,Hand1,Erythroild Cell 3,-0.86478415
+0,Kcne1l,Erythroild Cell 3,-0.386815009
+0.673400673,Cdh5,Erythroild Cell 3,-0.555648679
+3.367003367,Pecam1,Erythroild Cell 3,-0.521532772
+2.356902357,Tgfb1,Erythroild Cell 3,-0.655833467
+0,Sox17,Erythroild Cell 3,-0.362059879
+1.683501684,Rgcc,Erythroild Cell 3,-0.146806891
+0.336700337,Nrp2,Erythroild Cell 3,-0.56934858
+1.346801347,Fabp4,Erythroild Cell 3,-0.36311321
+0,Nfatc1,Erythroild Cell 3,-0.650360983
+0,Cdh11,Erythroild Cell 3,-0.76950017
+5.387205387,Klf1,Erythroild Cell 3,0.224657712
+32.996633,Tal1,Erythroild Cell 3,2.205197797
+17.50841751,Vim,Erythroild Cell 3,-1.669005943
+0.336700337,Cd68,Erythroild Cell 3,-0.31029199
+1.346801347,Col3a1,Erythroild Cell 3,-0.798321008
+1.346801347,Notch1,Erythroild Cell 3,-0.713757087
+0.673400673,Notch2,Erythroild Cell 3,-1.027299434
+0,Notch3,Erythroild Cell 3,-0.597964212
+0,Notch4,Erythroild Cell 3,-0.5745649
+1.346801347,Hes1,Erythroild Cell 3,-1.181237865
+0,Hes5,Erythroild Cell 3,NA
+1.346801347,Hes6,Erythroild Cell 3,-2.102982627
+1.683501684,Hes7,Erythroild Cell 3,0.950434157
+0,Hey1,Erythroild Cell 3,-0.857582975
+1.01010101,Hey2,Erythroild Cell 3,-1.086273276
+0,Heyl,Erythroild Cell 3,-0.483860397
